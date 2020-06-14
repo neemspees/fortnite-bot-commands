@@ -1,10 +1,7 @@
 # fortnite-bot-commands
 
 ## Movement
-- forward
-- backward
-- left
-- right
+- run <forward | backward | left | right> [short | long]
 - look <up | down | left | right>
 - jump
 - crouch
