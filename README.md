@@ -16,3 +16,6 @@
 ## Building
 - build <wall | floor | stairs | roof | trap>
 - place
+
+## Other
+- interact
